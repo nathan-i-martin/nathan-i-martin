@@ -6,3 +6,6 @@
 - ⚛️ Currently learning *the triforce* (✓ React, ✓ Angular, Vue)
 - ⚡ Typescript is amazing
 - 📫 Let's talk code...
+
+## My Programs
+[![RustyConnector Icon](https://github.com/Aelysium-Group/.github/blob/main/images/rustyconnector-button.png?raw=true)](https://github.com/Aelysium-Group/rusty-connector)
