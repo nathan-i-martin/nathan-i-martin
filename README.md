@@ -1,8 +1,8 @@
 ### 👋 Hello 👋
 
 - 💬 Full-stack 
-- 🐭 Former project manager for the [Mau5ville Project](https://github.com/Mau5ville-Project)
-- ⭕ Owner/Lead Operations Manager for [Aelysium Group](https://github.com/Aelysium-Group)
+- 🐭 Former project manager for deadmau5's Mau5ville project
+- ⭕ Check out my professional work [Aelysium Group](https://github.com/Aelysium-Group)
 - ⚛️ Currently learning *the triforce* (✓ React, ✓ Angular, Vue)
 - ⚡ Java is amazing
 - 📫 Let's talk code...
