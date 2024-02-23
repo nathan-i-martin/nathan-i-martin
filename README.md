@@ -1,5 +1,7 @@
 ### 👋 Hello 👋
 
+I enjoy writing software that solves problems.
+
 - 💬 Full-stack 
 - 🐭 Former project manager for deadmau5's Mau5ville project
 - ⭕ Check out my professional work [Aelysium Group](https://github.com/Aelysium-Group)
