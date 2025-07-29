@@ -1,4 +1,4 @@
-If you try to tell me "n" language is faster, I know you don't care about performance because whatever that language is, it's never assembly.
+If you try to tell me your fav language is fastest, it's not assembly. So I know you don't actually care about performance.
 
 - ⭕ Check out my professional work [Aelysium Group](https://aelysium.group/)
 - 💬 Isn't everyone fullstack nowadays?
