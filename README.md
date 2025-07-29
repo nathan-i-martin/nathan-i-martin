@@ -1,14 +1,8 @@
-### 👋 Hello 👋
+If you try to tell me "n" language is faster, I know you don't care about performance because whatever that language is, it's never assembly.
 
-I enjoy writing software that solves problems.
-
-- 💬 Full-stack 
+- ⭕ Check out my professional work [Aelysium Group](https://aelysium.group/)
+- 💬 Isn't everyone fullstack nowadays?
+- ⛛ "btw I'm a neovim developer"
+- ⚛️ I like Next.js, Java, and Postgres
 - 🐭 Former project manager for deadmau5's Mau5ville project
-- ⭕ Check out my professional work [Aelysium Group](https://github.com/Aelysium-Group)
-- ⚛️ Currently learning *the triforce* (✓ React, ✓ Angular, Vue)
-- ⚡ Java is amazing
-- 📫 Let's talk code...
-
-## My Programs
-[![RustyConnector Icon](https://github.com/Aelysium-Group/.github/blob/main/images/rustyconnector-button.png?raw=true)](https://github.com/Aelysium-Group/rusty-connector)
-[![Particulate Icon](https://github.com/Aelysium-Group/.github/blob/main/images/particulate-button.png?raw=true)](https://github.com/Aelysium-Group/particulate)
+- 🔁 I'm scared of loops because Medium told me they are bad for performance
